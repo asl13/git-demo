@@ -1,3 +1,6 @@
 onetwothree
 herewegoagain
 andonemorestring
+
+Summer
+Winter
